@@ -1,0 +1,163 @@
+#background1 {
+    background-image: url('./Assets/baalbak-lebanon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+    height: 530px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 2.3em;
+}
+
+#background1 {
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: large;
+}
+
+#background1 img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#introText {
+    text-align: center;
+    color: rgb(36 123 160);
+    font-family: Helvetica;
+    font-weight: 540;
+    font-size: 18px;
+    line-height: 34px;
+    height: 150px;
+}
+
+#introText tr {
+    padding: 30px;
+}
+
+#expertise {
+    background-color: rgb(36 123 160);
+    font-family: Helvetica;
+    height: 400px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    line-height: 34px;
+}
+
+#experience {
+    color: rgb(36 123 160);
+    font-family: Helvetica;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+#tweets {
+    background-color: rgb(36 123 160);
+    font-family: Helvetica;
+    height: 620px;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+#trustedBy {
+    color: rgb(36 123 160);
+    font-family: Helvetica;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+#trustedBy tr>td>img {
+    box-shadow: rgb(237, 235, 235) 0px 0px 5px 1px;
+}
+
+#trustedBy tr>td>img:hover {
+    position: relative;
+    top: -0.2em;
+    box-shadow: rgb(237, 235, 235) 0px 0px 30px 1px;
+}
+
+#testimonials {
+    background-color: rgb(36 123 160);
+    font-family: Helvetica;
+    height: 400px;
+    width: 100%;
+    text-align: justify;
+    line-height: 30px;
+    color: white;
+}
+
+#contactus {
+    color: rgb(36 123 160);
+    font-family: Helvetica;
+    height: 420px;
+    width: 100%;
+}
+
+#form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    border: 0.5px solid lightgray;
+    border-collapse: collapse;
+    border-radius: 20px;
+    font-size: smaller;
+    height: 250px;
+}
+
+#form p {
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#form hr {
+    border-top: 0.1px solid lightgray;
+}
+
+#uptodate {
+    background-color: rgb(36 123 160);
+    font-family: Helvetica;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+
+div#uptodate form {
+    padding-left: 450px;
+    font-weight: bold;
+}
+
+#footer {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: smaller;
+    height: 120px;
+    width: 100%;
+}
+
+#footer p {
+    color: rgb(36 123 160);
+}
+
+#background2 {
+    background-image: url('./Assets/ankor-wat-siem-reap-cambodia.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+    height: 530px;
+}
